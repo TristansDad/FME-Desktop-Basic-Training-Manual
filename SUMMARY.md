@@ -21,3 +21,6 @@
     * [Module Review](1.14.ModuleReview.md)
 * [Data Transformation](2.00.DataTransformation.md)
     * [What is Data Transformation](2.01.WhatIsDataTransformation.md)
+    * [Structural Transformation](2.02.StructuralTransformation.md)
+    * [Schema Editing](2.03.SchemaEditing.md)
+    * [Schema Mapping](2.04.SchemaMapping.md)
