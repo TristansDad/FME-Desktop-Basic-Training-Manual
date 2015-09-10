@@ -1,4 +1,5 @@
 # FME Desktop Basic Training Manual
+## FME Desktop Basic Training Manual##
 This is the manual for the introductory-level training course for Safe Software’s FME Desktop application.
  
 The training course provides a framework for a basic understanding of FME. it provides all the information a typical FME user needs to know.
